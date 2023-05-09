@@ -1,4 +1,12 @@
-# Penggunaan aplikasi tes-laravel
+## Penggunaan aplikasi tes-laravel
+- Pada aplikasi awal akan menampilkan tampilan Konser
+- Aktor admin aplikasi tinggal login melihat tabel pendaftar yang belum checkin
+- Untuk melakukan checkin admin tinggal mengetik pencarian berdasarkan ID. jika ada tinggal klik checkin
+- Kemudian admin bisa melihat data akun yang sudah registrasi bisa pula edit, tambah dan hapus
+- Ada juga data laporan yaitu pendaftar tiket yang sudah di check in
+- Untuk penonton pertama harus registrasi akun untuk bisa mendaftarkan penonton tiket
+- Setelah berhasil registrasi penonton tinggal login dan daftar tiket.
+- Disampingnya ada fitur cetak atau pdf tiket tersebut untuk Checkin ketika memasuki lapangan konser
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
