@@ -1,9 +1,12 @@
 ## Penggunaan aplikasi tes-laravel
+### Aktor admin atau staf
 - Pada aplikasi awal akan menampilkan tampilan Konser
 - Aktor admin aplikasi tinggal login melihat tabel pendaftar yang belum checkin
 - Untuk melakukan checkin admin tinggal mengetik pencarian berdasarkan ID. jika ada tinggal klik checkin
 - Kemudian admin bisa melihat data akun yang sudah registrasi bisa pula edit, tambah dan hapus
 - Ada juga data laporan yaitu pendaftar tiket yang sudah di check in
+
+### Aktor penonton
 - Untuk penonton pertama harus registrasi akun untuk bisa mendaftarkan penonton tiket
 - Setelah berhasil registrasi penonton tinggal login dan daftar tiket.
 - Disampingnya ada fitur cetak atau pdf tiket tersebut untuk Checkin ketika memasuki lapangan konser
